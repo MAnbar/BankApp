@@ -1,0 +1,16 @@
+<accounts>
+    <account id="AC-54654">
+        <holder>Hamada</holder>
+        <amount>45685.654</amount>
+        <currency>EGP</currency>
+        <ssc>10001649589</ssc>
+        <mobile>01126981330</mobile>
+    </account>
+    <account id="AC-54655">
+        <holder>Mohammed</holder>
+        <amount>85645.56</amount>
+        <currency>USD</currency>
+        <ssc>10001649588</ssc>
+        <mobile>01126981331</mobile>
+    </account>
+</accounts>

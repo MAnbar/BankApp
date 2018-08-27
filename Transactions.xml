@@ -1,0 +1,12 @@
+<transactions>
+    <transaction id="1000">
+        <amount>500</amount>
+        <benefactorId>AC-54654</benefactorId>
+        <beneficiaryId>AC-54655</beneficiaryId>
+    </transaction>
+    <transaction id="1001">
+        <amount>1000</amount>
+        <benefactorId>AC-54654</benefactorId>
+        <beneficiaryId>AC-54655</beneficiaryId>
+    </transaction>
+</transactions>
