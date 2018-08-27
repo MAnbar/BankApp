@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+    <account id="AC-54654">
+        <holder>Hamada</holder>
+        <amount>44185.654</amount>
+        <currency>EGP</currency>
+        <SSN>10001649589</SSN>
+        <mobile>01126981330</mobile>
+    </account>
+    <account id="AC-54655">
+        <holder>Mohammed</holder>
+        <amount>85729.5600025928</amount>
+        <currency>USD</currency>
+        <SSN>10001649588</SSN>
+        <mobile>01126981331</mobile>
+    </account>
+</accounts>
